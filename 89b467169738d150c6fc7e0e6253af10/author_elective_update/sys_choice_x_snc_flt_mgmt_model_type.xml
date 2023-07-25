@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-07-22 16:23:51</sys_created_on>
+            <sys_id>10c0973c9750311088c8b9dfe153af8f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>type</sys_name>
             <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
@@ -29,6 +30,7 @@
             <sys_created_on>2022-07-22 16:23:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fe09b7c9750311088c8b9dfe153af4a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-22 16:23:51</sys_updated_on>
@@ -48,6 +50,7 @@
             <sys_created_on>2022-07-22 16:23:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebe09b7c9750311088c8b9dfe153af4b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-22 16:23:51</sys_updated_on>
@@ -67,6 +70,7 @@
             <sys_created_on>2022-07-22 16:23:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>abe09b7c9750311088c8b9dfe153af4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-22 16:23:51</sys_updated_on>
@@ -86,6 +90,7 @@
             <sys_created_on>2022-07-22 16:23:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>6be09b7c9750311088c8b9dfe153af4d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-07-22 16:23:51</sys_updated_on>
